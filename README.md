@@ -1,6 +1,6 @@
 # Flip a Coin Game
 
-![Flip a Coin Game]
+[Flip a Coin Game]
 
 ![screenshot](https://github.com/user-attachments/assets/88dfcd59-11bf-40f5-b41b-d1dabe8753fb)
 
