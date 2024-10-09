@@ -31,17 +31,17 @@ Welcome to the **Flip a Coin Game**! This interactive web application simulates 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/flip-a-coin-game.git
-Usage
+Usage: 
 Click the "Flip Coin" button to toss the coin.
 The result will display either "Heads" or "Tails."
 
-Contributing
+Contributing: 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-License
+License: 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+Acknowledgments: 
 Inspired by classic decision-making games.
 
   
